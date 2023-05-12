@@ -3,6 +3,38 @@
   background-color: #e2edff;
 }
 
+.audio {
+  margin-left: 10px;
+  width: 35%;
+  outline: none;
+  opacity: 0.4;
+  justify-content: center;
+  align-items: center;
+}
+.judul-lagu {
+  margin-left: 25px;
+  padding-left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  margin-top: 20px;
+  color: black;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.5;
+}
+
+.penyanyi {
+  margin-left: 25px;
+  padding-left: 10px;
+  font-weight: normal;
+  margin: bottom 50px;
+  color: black;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
 #projects {
   background-color: #e2edff;
 }
@@ -13,4 +45,56 @@ section {
 
 .card-body {
   text-decoration: none;
+}
+
+.tulisan1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.tulisan2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.btn-cta {
+  border: none;
+  font-size: 13px;
+  padding: 6px 12px;
+  background: green;
+  border-radius: 20px;
+}
+
+.good {
+  color: white;
+  text-decoration: none;
+}
+
+.jb-akun1 {
+  margin-top: 20px;
+  line-height: 0.7;
+  font-weight: bold;
+}
+
+.jb-akun2 {
+  margin-top: 20px;
+  line-height: 1;
+  font-weight: bold;
+}
+
+.harga1 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.info1 {
+  font-size: 25;
+  font-style: italic;
+}
+
+.rekber {
+  font-size: 15px;
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
