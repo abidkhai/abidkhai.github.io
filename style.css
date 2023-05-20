@@ -49,13 +49,15 @@ section {
 
 .tulisan1 {
   font-family: Arial, Helvetica, sans-serif;
+  margin-right: 20px;
 }
 
 .tulisan2 {
   font-family: Arial, Helvetica, sans-serif;
+  margin-right: 20px;
 }
 .about1 {
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .btn-cta {
